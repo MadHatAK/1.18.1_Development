@@ -1,0 +1,10 @@
+{
+    "type": "minecraft:blasting",
+    "group": "hobbitium_ingot",
+    "ingredient": {
+        "item": "madhatmod:raw_hobbitium"
+    },
+    "result": "madhatmod:hobbitium_ingot",
+    "experience": 0.7,
+    "cookingtime": 100
+}

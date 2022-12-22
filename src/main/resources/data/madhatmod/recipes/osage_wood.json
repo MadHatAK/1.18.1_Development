@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "bark",
+  "pattern":
+          [
+            "OO",
+            "OO"
+          ],
+  "key":
+  {
+    "O":
+    {
+      "item": "madhatmod:osage_log"
+    }
+  },
+  "result":
+  {
+    "item": "madhatmod:osage_wood",
+    "count": 3
+  }
+}

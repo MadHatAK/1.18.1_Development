@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "madhatmod:wolfram_ore",
+    "madhatmod:deepslate_wolfram_ore",
+    "madhatmod:mithril_ore",
+    "madhatmod:bossite_ore",
+    "madhatmod:hobbitium_ore",
+    "madhatmod:deepslate_hobbitium_ore",
+    "madhatmod:shale_ore",
+    "madhatmod:deepslate_shale_ore",
+    "madhatmod:deepslate_compressed_coal_ore"
+  ]
+}

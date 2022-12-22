@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "madhatmod:block/ironwood_sapling"
+  }
+}

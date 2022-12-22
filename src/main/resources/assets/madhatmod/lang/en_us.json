@@ -1,0 +1,59 @@
+{
+  "item.madhatmod.tungsten_ingot": "Tungsten Ingot",
+  "item.madhatmod.raw_wolfram": "Raw Wolfram",
+  "item.madhatmod.mithril_ingot": "Mithril Ingot",
+  "item.madhatmod.raw_mithril": "Raw Mithril",
+  "item.madhatmod.bossite_ingot": "Bossite Ingot",
+  "item.madhatmod.raw_bossite": "Raw Bossite",
+  "item.madhatmod.raw_compressed_coal": "Raw Compressed Coal",
+  "item.madhatmod.hobbitium_ingot": "Hobbitium Ingot",
+  "item.madhatmod.raw_hobbitium": "Raw Hobbitium",
+  "item.madhatmod.raw_shale": "Raw Shale",
+
+  "item.madhatmod.coffee_beans": "Coffee Beans",
+  "item.madhatmod.coffee_cup": "Cup of Black Coffee",
+  "item.madhatmod.doctored_coffee_cup": "Cup of sweetened Coffee, with Creamer",
+  "item.madhatmod.peach": "Peach",
+
+  "item.madhatmod.bossite_axe": "Bossite Axe",
+  "item.madhatmod.bossite_hoe": "Bossite Hoe",
+  "item.madhatmod.bossite_pickaxe": "Bossite Pickaxe",
+  "item.madhatmod.bossite_shovel": "Bossite Shovel",
+  "item.madhatmod.hobbitium_pickaxe": "Hobbitium Pickaxe",
+  "item.madhatmod.tungsten_axe": "Tungsten Axe",
+  "item.madhatmod.tungsten_pickaxe": "Tungsten Pickaxe",
+  "item.madhatmod.tungsten_shovel": "Tungsten Shovel",
+
+  "block.madhatmod.wolfram_ore": "Wolfram Ore",
+  "block.madhatmod.deepslate_wolfram_ore": "Deepslate Wolfram Ore",
+  "block.madhatmod.mithril_ore": "Mithril Ore",
+  "block.madhatmod.bossite_ore": "Bossite Ore",
+  "block.madhatmod.deepslate_compressed_coal_ore": "Deepslate Compressed Coal",
+  "block.madhatmod.hobbitium_ore": "Hobbitium Ore",
+  "block.madhatmod.deepslate_hobbitium_ore": "Deepslate Hobbitium Ore",
+  "block.madhatmod.shale_ore": "Shale Ore",
+  "block.madhatmod.deepslate_shale_ore": "Deepslate Shale Ore",
+
+  "block.madhatmod.coffee_plant": "Coffee Bush",
+
+  "block.madhatmod.ironwood_log": "Ironwood Log",
+  "block.madhatmod.ironwood_wood": "Ironwood Wood",
+  "block.madhatmod.stripped_ironwood_log": "Stripped Ironwood Log",
+  "block.madhatmod.stripped_ironwood_wood": "Stripped Ironwood Wood",
+  "block.madhatmod.ironwood_planks": "Ironwood Planks",
+  "block.madhatmod.ironwood_leaves": "Ironwood Leaves",
+  "block.madhatmod.ironwood_sapling": "Ironwood Sapling",
+
+  "block.madhatmod.osage_log": "Osage Log",
+  "block.madhatmod.osage_wood": "Osage Wood",
+  "block.madhatmod.stripped_osage_log": "Stripped Osage Log",
+  "block.madhatmod.stripped_osage_wood": "Stripped Osage Wood",
+  "block.madhatmod.osage_planks": "Osage Planks",
+  "block.madhatmod.osage_leaves": "Osage Leaves",
+  "block.madhatmod.osage_sapling": "Osage Sapling",
+
+
+  "itemGroup.madhat_blocks_tab": "MadHat Blocks Tab",
+  "itemGroup.madhat_items_tab": "MadHat Materials Tab",
+  "itemGroup.madhat_tools_tab": "MadHat Tools Tab"
+}

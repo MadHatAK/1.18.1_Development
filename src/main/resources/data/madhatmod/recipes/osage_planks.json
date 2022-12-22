@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients":
+  [
+    {
+      "tag": "madhatmod:osage_logs"
+    }
+  ],
+  "result":
+  {
+    "item": "madhatmod:osage_planks",
+    "count": 4
+  }
+
+}

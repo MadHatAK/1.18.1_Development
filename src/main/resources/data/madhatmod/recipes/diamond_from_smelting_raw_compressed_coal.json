@@ -1,0 +1,11 @@
+{
+    "type": "minecraft:smelting",
+    "group": "diamond",
+    "ingredient": {
+        "item": "madhatmod:raw_compressed_coal"
+    },
+    "result": "minecraft:diamond",
+    "count": 2,
+    "experience": 0.7,
+    "cookingtime": 200
+}

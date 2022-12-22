@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "madhatmod:block/osage_wood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "madhatmod:block/osage_wood"
+    },
+    "axis=z": {
+      "model": "madhatmod:block/osage_wood",
+      "x": 90
+    }
+  }
+}

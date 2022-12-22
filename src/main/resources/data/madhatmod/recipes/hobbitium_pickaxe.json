@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "HHH",
+    " S ",
+    " S "
+  ],
+  "key": {
+    "H": {
+      "item": "madhatmod:hobbitium_ingot"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "madhatmod:hobbitium_pickaxe"
+  }
+}

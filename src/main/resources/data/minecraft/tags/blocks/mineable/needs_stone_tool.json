@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "madhatmod:wolfram_ore",
+    "madhatmod:deepslate_wolfram_ore",
+    "madhatmod:mithril_ore",
+    "madhatmod:hobbitium_ore",
+    "madhatmod:deepslate_hobbitium_ore"
+  ]
+}

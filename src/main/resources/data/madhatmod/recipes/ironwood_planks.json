@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients":
+  [
+    {
+      "tag": "madhatmod:ironwood_logs"
+    }
+  ],
+  "result":
+  {
+    "item": "madhatmod:ironwood_planks",
+    "count": 4
+  }
+
+}

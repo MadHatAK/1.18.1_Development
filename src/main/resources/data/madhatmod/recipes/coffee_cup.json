@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "WC",
+    " L"
+  ],
+  "key": {
+    "C": {
+      "item": "madhatmod:coffee_beans"
+    },
+    "L": {
+      "item": "minecraft:lava_bucket"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "result": {
+    "item": "madhatmod:coffee_cup"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values":
+          [
+            "madhatmod:ironwood_log",
+            "madhatmod:ironwood_wood",
+            "madhatmod:stripped_ironwood_log",
+            "madhatmod:stripped_ironwood_wood"
+          ]
+}

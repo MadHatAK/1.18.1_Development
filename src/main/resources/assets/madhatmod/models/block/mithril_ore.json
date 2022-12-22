@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "madhatmod:block/mithril_ore"
+  }
+}

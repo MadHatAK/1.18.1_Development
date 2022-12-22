@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values":
+          [
+            "madhatmod:osage_log",
+            "madhatmod:osage_wood",
+            "madhatmod:stripped_osage_log",
+            "madhatmod:stripped_osage_wood"
+          ]
+}

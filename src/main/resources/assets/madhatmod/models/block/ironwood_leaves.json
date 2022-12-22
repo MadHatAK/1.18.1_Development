@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaves",
+  "textures": {
+    "all": "madhatmod:block/ironwood_leaves"
+  }
+}
