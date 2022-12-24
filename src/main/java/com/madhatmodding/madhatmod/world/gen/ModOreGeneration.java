@@ -24,6 +24,7 @@ public class ModOreGeneration
         base.add(ModPlacedFeatures.HOBBITIUM_ORE_PLACED);
         base.add(ModPlacedFeatures.BOSSITE_ORE_PLACED);
         base.add(ModPlacedFeatures.COMPRESSED_COAL_ORE_PLACED);
+        base.add(ModPlacedFeatures.MITHRIL_ORE_PLACED);
 
         ResourceKey<Biome> key = ResourceKey.create(Registry.BIOME_REGISTRY, event.getName());
         Set<BiomeDictionary.Type> types = BiomeDictionary.getTypes(key);

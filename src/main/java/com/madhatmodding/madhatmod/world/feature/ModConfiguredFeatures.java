@@ -85,6 +85,13 @@ public class ModConfiguredFeatures
     public static final Holder<ConfiguredFeature<OreConfiguration, ?>> HOBBITIUM_ORE = FeatureUtils.register("hobbitium_ore",
             Feature.ORE, new OreConfiguration(OVERWORLD_HOBBITIUM_ORES, 9));
 
+        //Mithril
+    public static final List<OreConfiguration.TargetBlockState> OVERWORLD_MITHRIL_ORES = List.of(
+            OreConfiguration.target(OreFeatures.STONE_ORE_REPLACEABLES, ModBlocks.MITHRIL_ORE.get().defaultBlockState()));
+
+    public static final Holder<ConfiguredFeature<OreConfiguration, ?>> MITHRIL_ORE = FeatureUtils.register("mithril_ore",
+            Feature.ORE, new OreConfiguration(OVERWORLD_MITHRIL_ORES, 9));
+
         //Shale
     public static final List<OreConfiguration.TargetBlockState> OVERWORLD_SHALE_ORES = List.of(
             OreConfiguration.target(OreFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SHALE_ORE.get().defaultBlockState()),

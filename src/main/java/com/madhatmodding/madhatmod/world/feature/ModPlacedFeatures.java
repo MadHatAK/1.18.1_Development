@@ -35,6 +35,12 @@ public class ModPlacedFeatures
                     HeightRangePlacement.uniform(VerticalAnchor.absolute(-50),
                             VerticalAnchor.absolute(25))));
 
+        //MITHRIL
+        public static final Holder<PlacedFeature> MITHRIL_ORE_PLACED = PlacementUtils.register("mithril_ore_placed",
+                ModConfiguredFeatures.MITHRIL_ORE, ModOrePlacement.commonOrePlacement(8,
+                        HeightRangePlacement.uniform(VerticalAnchor.absolute(50),
+                                VerticalAnchor.absolute(120))));
+
         //SHALE
     public static final Holder<PlacedFeature> SHALE_ORE_PLACED = PlacementUtils.register("shale_ore_placed",
             ModConfiguredFeatures.SHALE_ORE, ModOrePlacement.commonOrePlacement(20,
