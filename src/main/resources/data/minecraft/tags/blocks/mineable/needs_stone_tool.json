@@ -5,6 +5,8 @@
     "madhatmod:deepslate_wolfram_ore",
     "madhatmod:mithril_ore",
     "madhatmod:hobbitium_ore",
-    "madhatmod:deepslate_hobbitium_ore"
+    "madhatmod:deepslate_hobbitium_ore",
+    "madhatmod:sulfur_ore",
+    "madhatmod:deepslate_sulfur_ore"
   ]
 }

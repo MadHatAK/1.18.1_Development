@@ -44,6 +44,9 @@ public class ModItems
     public static final RegistryObject<Item> RAW_SHALE = ITEMS.register("raw_shale",
             () -> new RawShaleItem(new Item.Properties().tab(ModCreativeModeTab.MADHATMOD_ITEM_TAB)));
 
+    public static final RegistryObject<Item> SULFUR_DUST = ITEMS.register("sulfur_dust",
+            () -> new Item(new Item.Properties().tab(ModCreativeModeTab.MADHATMOD_ITEM_TAB)));
+
     public static final RegistryObject<Item> COFFEE_BEANS = ITEMS.register("coffee_beans",
             () -> new ItemNameBlockItem(ModBlocks.COFFEE_PLANT_BLOCK.get(),
                     new Item.Properties().tab(ModCreativeModeTab.MADHATMOD_ITEM_TAB)));

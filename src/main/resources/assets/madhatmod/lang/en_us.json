@@ -9,6 +9,7 @@
   "item.madhatmod.hobbitium_ingot": "Hobbitium Ingot",
   "item.madhatmod.raw_hobbitium": "Raw Hobbitium",
   "item.madhatmod.raw_shale": "Raw Shale",
+  "item.madhatmod.sulfur_dust": "Sulfur Dust",
 
   "item.madhatmod.coffee_beans": "Coffee Beans",
   "item.madhatmod.coffee_cup": "Cup of Black Coffee",
@@ -33,6 +34,8 @@
   "block.madhatmod.deepslate_hobbitium_ore": "Deepslate Hobbitium Ore",
   "block.madhatmod.shale_ore": "Shale Ore",
   "block.madhatmod.deepslate_shale_ore": "Deepslate Shale Ore",
+  "block.madhatmod.sulfur_ore": "Sulfur Ore",
+  "block.madhatmod.deepslate_sulfur_ore": "Deepslate Sulfur Ore",
 
   "block.madhatmod.coffee_plant": "Coffee Bush",
 

@@ -47,6 +47,12 @@ public class ModPlacedFeatures
                     HeightRangePlacement.uniform(VerticalAnchor.absolute(-50),
                             VerticalAnchor.absolute(60))));
 
+        //SULFUR
+    public static final Holder<PlacedFeature> SULFUR_ORE_PLACED = PlacementUtils.register("sulfur_ore_placed",
+                ModConfiguredFeatures.SULFUR_ORE, ModOrePlacement.commonOrePlacement(10,
+                        HeightRangePlacement.uniform(VerticalAnchor.absolute(-50),
+                                VerticalAnchor.absolute(64))));
+
         //Wolfram
     public static final Holder<PlacedFeature> WOLFRAM_ORE_PLACED = PlacementUtils.register("wolfram_ore_placed",
             ModConfiguredFeatures.WOLFRAM_ORE, ModOrePlacement.commonOrePlacement(10,

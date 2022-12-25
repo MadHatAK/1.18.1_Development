@@ -9,6 +9,8 @@
     "madhatmod:deepslate_hobbitium_ore",
     "madhatmod:shale_ore",
     "madhatmod:deepslate_shale_ore",
-    "madhatmod:deepslate_compressed_coal_ore"
+    "madhatmod:deepslate_compressed_coal_ore",
+    "madhatmod:sulfur_ore",
+    "madhatmod:deepslate_sulfur_ore"
   ]
 }

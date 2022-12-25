@@ -71,6 +71,14 @@ public class ModBlocks
             () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(5f, 5f)
                     .requiresCorrectToolForDrops()));
 
+    public static final RegistryObject<Block> SULFUR_ORE = registerBlock("sulfur_ore",
+            () -> new OreBlock(BlockBehaviour.Properties.of(Material.STONE).strength(1f, 0f)
+                    .requiresCorrectToolForDrops(), UniformInt.of(0, 2)));
+
+    public static final RegistryObject<Block> DEEPSLATE_SULFUR_ORE = registerBlock("deepslate_sulfur_ore",
+            () -> new Block(BlockBehaviour.Properties.of(Material.STONE).strength(1f, 0f)
+                    .requiresCorrectToolForDrops()));
+
 
     //CROPS
     public static final RegistryObject<Block> COFFEE_PLANT_BLOCK = registerBlockWithoutItem("coffee_plant",

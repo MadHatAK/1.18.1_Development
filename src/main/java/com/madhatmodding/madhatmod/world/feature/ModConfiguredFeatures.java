@@ -100,6 +100,14 @@ public class ModConfiguredFeatures
     public static final Holder<ConfiguredFeature<OreConfiguration, ?>> SHALE_ORE = FeatureUtils.register("shale_ore",
             Feature.ORE, new OreConfiguration(OVERWORLD_SHALE_ORES, 9));
 
+        //Sulfur
+        public static final List<OreConfiguration.TargetBlockState> OVERWORLD_SULFUR_ORES = List.of(
+                OreConfiguration.target(OreFeatures.STONE_ORE_REPLACEABLES, ModBlocks.SULFUR_ORE.get().defaultBlockState()),
+                OreConfiguration.target(OreFeatures.DEEPSLATE_ORE_REPLACEABLES, ModBlocks.DEEPSLATE_SULFUR_ORE.get().defaultBlockState()));
+
+    public static final Holder<ConfiguredFeature<OreConfiguration, ?>> SULFUR_ORE = FeatureUtils.register("sulfur_ore",
+            Feature.ORE, new OreConfiguration(OVERWORLD_SULFUR_ORES, 9));
+
         //Wolfram
     public static final List<OreConfiguration.TargetBlockState> OVERWORLD_WOLFRAM_ORES = List.of(
             OreConfiguration.target(OreFeatures.STONE_ORE_REPLACEABLES, ModBlocks.WOLFRAM_ORE.get().defaultBlockState()),
